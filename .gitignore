@@ -1,5 +1,3 @@
-# Ignore raw data files
+# Ignore raw data folders (including all files inside)
 Data/
 data/
-*.zip
-*.csv

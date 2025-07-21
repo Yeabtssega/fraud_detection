@@ -20,7 +20,9 @@ This repository contains the data cleaning, exploratory data analysis (EDA), and
 
 Run the preprocessing and EDA script:
 
+HEAD
 
+4273f2d (Added Task 2 evaluation summary and results)
 python scripts/preprocess.py
 📊 Task 2: Model Training & Evaluation
 Two models were trained and compared on both creditcard.csv and Fraud_Data.csv:

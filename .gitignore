@@ -1,0 +1,5 @@
+# Ignore all data files
+data/
+Data/
+*.csv
+*.zip

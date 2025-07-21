@@ -1,5 +1,5 @@
-# Ignore all data files
-data/
+# Ignore raw data files
 Data/
-*.csv
+data/
 *.zip
+*.csv
